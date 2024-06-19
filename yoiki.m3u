@@ -125,3 +125,11 @@ http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=31362&extensio
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:56:1F:9A&stream=31362&extension=ts&play_token=aBjLy8WmHy
 #EXTINF:-1,Digi Sport 1 4K RO
 http://birutv.my.id:80/play/live.php?mac=00:1A:79:56:1F:9A&stream=31362&extension=ts&play_token=30kwRQOcgg
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+#EXTINF:-1 group-title="Sports|AstroGO" tvg-logo="https://linear-poster.astro.com.my/prod/poster/SPOTV-STADIA_IVP_LAND_288x162.jpg" tvg-id="SPOTVStadia",808 Spotv Stadia
+https://178a-175-142-161-137.ngrok-free.app/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
