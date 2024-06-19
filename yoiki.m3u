@@ -1,0 +1,69 @@
+ #EZTINF:-1,sky calcio 251
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=567979&extension=ts&play_token=qptt1bEaU5
+#EXTINF:-1,Sky Calcio 251 FHD
+http://optimus-tv.o#EXTINF:-1,Sky Calcio 251 FHDrg:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=567979&extension=ts&play_token=xtaYGcayvp
+#EXTINF:-1,Sky Calcio 251 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=567980&extension=ts&play_token=otuXsoSOWG
+#EXTINF:-1,Sky Calcio 251 HD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=567980&extension=ts&play_token=luPJzUOctY
+#EXTINF:-1,Sky Calcio 1 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=56650&extension=ts&play_token=mEQDIPcHad&sn2=
+#EXTINF:-1,Sky Calcio 1 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=56651&extension=ts&play_token=smMVVtDxjZ&sn2=
+#EXTINF:-1,Sky Calcio 1 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=136734&extension=ts&play_token=BiGyqTFOrF&sn2=
+#EXTINF:-1,Sky Calcio 1 HD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=56652&extension=ts&play_token=envrfN7Nyx&sn2=
+#EXTINF:-1,Sky Calcio 1 FULL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56650&extension=ts&play_token=RTF6EIAbsN&sn2=
+#EXTINF:-1,Sky Calcio 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56651&extension=ts&play_token=MCDStuTCyP&sn2=
+#EXTINF:-1,Sky Calcio 1 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=136734&extension=ts&play_token=396sk1tdgy&sn2=
+#EXTINF:-1,Sky Calcio 1 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56652&extension=ts&play_token=jASwcsnrtc&sn2=
+#EXTINF:-1,Sky Calcio 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56651&extension=ts&play_token=ea921zs7BZ&sn2=062014N033468
+#EXTINF:-1,Sky Calcio 1 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=136734&extension=ts&play_token=DJJoCtMjd5&sn2=062014N033468
+#EXTINF:-1,Sky Calcio 1 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56652&extension=ts&play_token=kumhwuRNWH&sn2=062014N033468
+
+#EXTINF:-1,Sky Sport Uno FHD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=560496&extension=ts&play_token=AhSQl1bgCC
+#EXTINF:-1,Sky Sport Uno FHD
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=560496&extension=ts&play_token=y1H1cLG7kS
+#EXTINF:-1,Sky Sport 1 FHD
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=42737&extension=ts&play_token=D52Xtev79Q
+#EXTINF:-1,Sky Sport 1 FHD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=56598&extension=ts&play_token=subqoTnj3N&sn2=
+#EXTINF:-1,Sky Sport 1 FHD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=56599&extension=ts&play_token=p9UgvaWRsW&sn2=
+#EXTINF:-1,Sky Sport 1 FHD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=136690&extension=ts&play_token=JIxn9mtxYC&sn2=
+#EXTINF:-1,Sky Sport 1 FHD
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=56600&extension=ts&play_token=o8s3OnXrPu&sn2=
+#EXTINF:-1,Sky Sport Uno FULL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56598&extension=ts&play_token=ND2wg4n6Iu&sn2=
+#EXTINF:-1,Sky Sport Uno FULL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56598&extension=ts&play_token=qYDSWcPrus&sn2=
+#EXTINF:-1,Sky Sport Uno HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56599&extension=ts&play_token=KjV9tTLjIq&sn2=
+#EXTINF:-1,Sky Sport Uno HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56599&extension=ts&play_token=bke69vmYDu&sn2=
+#EXTINF:-1,Sky Sport Uno HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=136690&extension=ts&play_token=WqEO9rsZeg&sn2=
+#EXTINF:-1,Sky Sport Uno HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=136690&extension=ts&play_token=jO3li3ujih&sn2=
+#EXTINF:-1,Sky Sport Uno SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56600&extension=ts&play_token=Rc4n165Pzv&sn2=
+#EXTINF:-1,Sky Sport Uno SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:56:A8:13&stream=56600&extension=ts&play_token=tyWJUGOcGj&sn2=
+#EXTINF:-1,Sky Sport Uno FULL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56598&extension=ts&play_token=RAVR6aZEXa&sn2=062014N033468
+#EXTINF:-1,Sky Sport Uno HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56599&extension=ts&play_token=oYTrzNHkLR&sn2=062014N033468
+#EXTINF:-1,Sky Sport Uno HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=136690&extension=ts&play_token=Bb7lmxRowJ&sn2=062014N033468
+#EXTINF:-1,Sky Sport Uno SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56600&extension=ts&play_token=UsppQ6fkZK&sn2=062014N033468
