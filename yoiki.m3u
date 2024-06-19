@@ -67,3 +67,61 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56599&exten
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=136690&extension=ts&play_token=Bb7lmxRowJ&sn2=062014N033468
 #EXTINF:-1,Sky Sport Uno SD
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=56600&extension=ts&play_token=UsppQ6fkZK&sn2=062014N033468
+
+
+
+#EXTINF:-1,Pro TV HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=564743&extension=ts&play_token=VaXYhphICo
+#EXTINF:-1,Pro TV FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=564744&extension=ts&play_token=arRxEwnFk4
+#EXTINF:-1,Pro TV HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=564743&extension=ts&play_token=GAgYiExpyg
+#EXTINF:-1,Pro TV FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=564744&extension=ts&play_token=HDw8xzs4mI
+#EXTINF:-1,Pro TV HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564743&extension=ts&play_token=EtZoySNAqb
+#EXTINF:-1,Pro TV FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564744&extension=ts&play_token=I94Ns3zVok
+#EXTINF:-1,Pro TV HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564743&extension=ts&play_token=xLCqUFOCHm
+#EXTINF:-1,Pro TV FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564744&extension=ts&play_token=1XL97S0CEQ
+#EXTINF:-1,Pro TV HD RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=31327&extension=ts&play_token=MKqHwFqKd9
+#EXTINF:-1,Pro TV HD RO
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B2:6D:F5&stream=71280&extension=ts&play_token=waR6vGKEpt&sn2=
+#EXTINF:-1,Pro TV HD RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:56:1F:9A&stream=31327&extension=ts&play_token=z7EO99xwc3
+#EXTINF:-1,Pro TV HD RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:56:1F:9A&stream=31327&extension=ts&play_token=AAAEzUg5pm
+#EXTINF:-1,Pro TV HD RO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=71280&extension=ts&play_token=SKKcEX6Rzx&sn2=062014N033468
+#EXTINF:-1,Pro TV HD RO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=71280&extension=ts&play_token=KlcOBbgH1H&sn2=062014N033468
+#EXTINF:-1,Pro TV HD RO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=71280&extension=ts&play_token=FUGM8YbM5u&sn2=062014N033468
+#EXTINF:-1,Pro TV HD RO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:F9:DD:1C&stream=71280&extension=ts&play_token=LIzrci1hFU&sn2=062014N033468
+
+#EXTINF:-1,Digi Sport 1 HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=564953&extension=ts&play_token=g8dnhYCxv1
+#EXTINF:-1,Digi Sport 1 FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=564954&extension=ts&play_token=yFOKOWL7tT
+#EXTINF:-1,Digi Sport 1 HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564953&extension=ts&play_token=xjdx0LjZUy
+#EXTINF:-1,Digi Sport 1 FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564954&extension=ts&play_token=WCI6EgxSbF
+#EXTINF:-1,Digi Sport 1 HD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564953&extension=ts&play_token=ALAvU9IScP
+#EXTINF:-1,Digi Sport 1 FHD RO
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:6E:C1&stream=564954&extension=ts&play_token=pwBn2Qpo7w
+#EXTINF:-1,Digi Sport 1 HD RO
+http://starshare.live:8080/live/zr8TpoJysi/1OR7iU0LFF/211003.ts
+#EXTINF:-1,Digi Sport 1 HD RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=31362&extension=ts&play_token=sIHkQQTS5v
+#EXTINF:-1,Digi Sport 1 HD RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:D5:1F:D1&stream=31362&extension=ts&play_token=8qAyRZqw76
+#EXTINF:-1,Digi Sport 1 4K RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:56:1F:9A&stream=31362&extension=ts&play_token=aBjLy8WmHy
+#EXTINF:-1,Digi Sport 1 4K RO
+http://birutv.my.id:80/play/live.php?mac=00:1A:79:56:1F:9A&stream=31362&extension=ts&play_token=30kwRQOcgg
